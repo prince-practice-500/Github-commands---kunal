@@ -37,6 +37,6 @@ b. dir = to list all the files and folders in a directory.
 
 10. git push -f = this is used once we have removed a  commit from our local branch(which is already present on our remote branch)
 
-11. Squashing your commits = git rebase -i commit_id  (Most Important)
+11. Squashing your commits = git rebase -i commit_id  (Most Important) (It means - to make a squence of some commits into one)
 
 12. 
